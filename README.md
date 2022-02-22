@@ -1,2 +1,2 @@
-# Stanley-s-Galazy-3
-My 3rd personal website
+# Stanley's Galazy 3
+My 3rd personal website (2022)
