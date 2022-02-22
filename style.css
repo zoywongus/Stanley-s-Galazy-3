@@ -1,0 +1,103 @@
+body {
+	background-color: #377dd8;
+	font-family: Calibri , Arial , sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #271850e8;
+}
+
+h1 , h2{
+	margin: 0;
+}
+
+h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+h5 {
+	background-color: #6e6ae9;
+	text-align: center;
+	margin: 0;
+	font-family: roboto;
+	color: blanchedalmond;
+}
+
+p a {
+	color: #377dd8;
+	font-style: italic;
+}
+
+li a {
+	color: #377dd8;
+	font-style: italic;
+}
+
+#contactmepage h5 {
+	background-color: #eea9f3;
+	text-align: right;
+}
+
+#thegcd {
+	color: #727188;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 300%;
+	padding: 20px;
+}
+
+#container {
+	background-color: white;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mainheader {
+	background-color: #f7e1a6;
+	color: brown;
+	text-align: center;
+	padding: 10px;
+}
+
+#content {
+	padding: 10px;
+}
+
+#nav {
+	width: 180px;
+	float: left;
+	background-color: #b7f076;
+}
+
+#nav ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+
+#nav .selected {
+	color: rgb(68, 202, 151);
+	font-weight: bold;
+}
+
+#main {
+	width: 790px;
+	float: right;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+#footer {
+	clear: both;
+	padding: 8px;
+	background-color: #ff810bd8;
+	text-align: right;
+}
